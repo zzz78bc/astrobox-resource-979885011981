@@ -16,7 +16,18 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "赞助一下？",
+      "url": "https://afdian.com/a/zzz78",
+      "icon": "link-simple"
+    },
+    {
+      "title": "欢迎加入我们的qq群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=pNK/FJsB/KiNt71Sm4/SG31XM12pPXolY/m26j4HAHobJlL3/NPNNzBEEF3bJ4V8&busi_data=eyJncm91cENvZGUiOiIxMjkzODIwMDkiLCJ0b2tlbiI6IjMwckUyM3NiWVhPendYWDJ6K0QyM016YjBveURwZjl3SkUzYU0xWUpweGZ1OXM1Tm14VlpZMzZMbm43cHZYa2wiLCJ1aW4iOiI0NjI4NDc1MjQifQ==&data=5LXSUq35JmTXxCOXiDqSKRJqIbUBWW68y6QXMrfuwLt7MRA9HsZhunrojgmxxTtGeoJI5W3nuiRyNOS0WHdICA&svctype=4&tempid=h5_group_info",
+      "icon": "chat-circle"
+    }
+  ],
   "downloads": {
     "xmb9p": {
       "version": "1.0.0",
