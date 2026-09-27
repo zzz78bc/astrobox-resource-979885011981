@@ -3,7 +3,7 @@
     "id": "979885011981",
     "restype": "watchface",
     "name": "优香  动态",
-    "description": "一个关于优香的动态表盘，添加了一些别样的动态效果\n希望你喜欢！",
+    "description": "一个关于优香的动态表盘，添加了一些独特的动态效果\n希望你能喜欢！",
     "preview": [
       "media/画板 3.png"
     ],
@@ -16,38 +16,15 @@
       }
     ]
   },
-  "links": [
-    {
-      "title": "欢迎加入我们的qq群",
-      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=pNK/FJsB/KiNt71Sm4/SG31XM12pPXolY/m26j4HAHobJlL3/NPNNzBEEF3bJ4V8&busi_data=eyJncm91cENvZGUiOiIxMjkzODIwMDkiLCJ0b2tlbiI6IjMwckUyM3NiWVhPendYWDJ6K0QyM016YjBveURwZjl3SkUzYU0xWUpweGZ1OXM1Tm14VlpZMzZMbm43cHZYa2wiLCJ1aW4iOiI0NjI4NDc1MjQifQ==&data=5LXSUq35JmTXxCOXiDqSKRJqIbUBWW68y6QXMrfuwLt7MRA9HsZhunrojgmxxTtGeoJI5W3nuiRyNOS0WHdICA&svctype=4&tempid=h5_group_info",
-      "icon": "chat-circle"
-    },
-    {
-      "title": "赞助我给我坚持的动力",
-      "url": "https://afdian.com/a/zzz78",
-      "icon": "link-simple"
-    }
-  ],
+  "links": [],
   "downloads": {
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/优香 9p.bin",
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": "无"
-        }
-      ]
+      "file_name": "downloads/优香 9p.bin"
     },
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/优香 9p.bin",
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": "无"
-        }
-      ]
+      "file_name": "downloads/优香 10p.bin"
     }
   },
   "ext": {}
